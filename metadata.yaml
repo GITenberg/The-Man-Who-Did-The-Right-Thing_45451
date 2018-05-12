@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4771
     wikipedia: http://en.wikipedia.org/wiki/Harry_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45451#The-Man-Who-Did-The-Right-Thing
 gutenberg_issued: '2014-04-21'
 gutenberg_type: Text
 identifiers:

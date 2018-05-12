@@ -1,0 +1,33 @@
+_repo: The-Man-Who-Did-The-Right-Thing_45451
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45451-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Harry
+    aliases:
+    - Johnston, H.H.
+    - Johnston, H. H. (Harry Hamilton), Sir
+    - Johnston, Henry Hamilton, Sir
+    - Johnston, Sir Harry Hamilton
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '4771'
+    url: http://www.gutenberg.org/2009/agents/4771
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Johnston
+description: ''
+gutenberg_issued: '2014-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Africa, East -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Missions -- Tanzania -- Fiction'
+title: 'The Man Who Did the Right Thing: A Romance'
+url: http://www.gutenberg.org/ebooks/45451
